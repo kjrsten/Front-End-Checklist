@@ -20,13 +20,13 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="138">
-                <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="19" />
+              <first_editor relative-caret-position="210">
+                <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
                 <folding>
-                  <marker date="1510522595000" expanded="true" signature="6890:7147" ph="..." />
-                  <marker date="1510522595000" expanded="true" signature="6909:7130" ph="..." />
-                  <marker date="1510522595000" expanded="true" signature="6921:7110" ph="..." />
-                  <marker date="1510522595000" expanded="true" signature="13336:13402" ph="..." />
+                  <marker date="1510522804000" expanded="true" signature="5816:6073" ph="..." />
+                  <marker date="1510522804000" expanded="true" signature="5835:6056" ph="..." />
+                  <marker date="1510522804000" expanded="true" signature="5847:6036" ph="..." />
+                  <marker date="1510522804000" expanded="true" signature="12262:12328" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -119,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510520248332</updated>
-      <workItem from="1510520249864" duration="2236000" />
+      <workItem from="1510520249864" duration="2445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2236000" />
+    <option name="totallyTimeSpent" value="2445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1402" height="828" extended-state="0" />
@@ -162,13 +162,13 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="19" />
+          <first_editor relative-caret-position="210">
+            <caret line="8" column="52" lean-forward="false" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             <folding>
-              <marker date="1510522595000" expanded="true" signature="6890:7147" ph="..." />
-              <marker date="1510522595000" expanded="true" signature="6909:7130" ph="..." />
-              <marker date="1510522595000" expanded="true" signature="6921:7110" ph="..." />
-              <marker date="1510522595000" expanded="true" signature="13336:13402" ph="..." />
+              <marker date="1510522804000" expanded="true" signature="5816:6073" ph="..." />
+              <marker date="1510522804000" expanded="true" signature="5835:6056" ph="..." />
+              <marker date="1510522804000" expanded="true" signature="5847:6036" ph="..." />
+              <marker date="1510522804000" expanded="true" signature="12262:12328" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
