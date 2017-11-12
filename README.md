@@ -22,10 +22,9 @@ It is based on Front-End developers' years of experience, with the additions com
 4. **[CSS](#css)**
 5. **[Images](#images)**
 6. **[JavaScript](#javascript)**
-7. **[Security](#security)**
-8. **[Performance](#performance-1)**
-9. **[Accessibility](#accessibility)**
-10. **[SEO](#seo)**
+7. **[Performance](#performance)**
+8. **[Accessibility](#accessibility)**
+9. **[SEO](#seo)**
 
 ## How to use?
 
