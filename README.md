@@ -374,8 +374,9 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 
 ## Accessibility
 
-> **Notes:** You can watch the playlist [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) 📹
+> **Notes:** Learn more about web accessibility with this playlist [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) 📹
 
+Sites will be evaluated using this [Google Chrome extension]( https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 ### Best practices
 
 - [ ] **Color contrast:** ![Medium][medium_img] Color contrast should at least pass WCAG AA (AAA for mobile).
