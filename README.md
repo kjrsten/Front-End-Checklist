@@ -209,8 +209,6 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 
 > * 📖 [HTML Reference](http://htmlreference.io/)
 
-* [ ] **Error pages:** ![High][high_img] Error 404 page and 5xx exist. Remember that the 5xx error pages need to have their CSS integrated (no external call on the current server).
-
 * [ ] **Noopener:** ![Medium][medium_img] In case you are using external links with `target="_blank"`, your link should have a `rel="noopener"` attribute to prevent tab nabbing. If you need to support older versions of Firefox, use `rel="noopener noreferrer"`.
 
 > * 📖 [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
@@ -267,7 +265,7 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 > **Notes:** Take a look at [CSS guidelines](https://cssguidelin.es/) followed by most  Front-End developers. If you have a doubt about CSS properties, you can visit [CSS Reference](http://cssreference.io/). There is also a short [Code Guide](http://codeguide.co/) for consistency.
 
 * [ ] **Responsive Web Design:** ![High][high_img] The website is using responsive web design.
-* [ ] **CSS Print:** ![Medium][medium_img] A print stylesheet is provided and is correct on each page. Note: Bootstrap will take care of most of this, but still check what your pages look like when printed.
+* [ ] **CSS Print:** ![Low][low_img] A print stylesheet is provided and is correct on each page. Note: Bootstrap will take care of most of this, but still check what your pages look like when printed.
 * [ ] **Unique ID:** ![High][high_img] If IDs are used, they are unique to a page.
 
 * [ ] **JS prefix:** ![Low][low_img] All classes (or id- used in JavaScript files) begin with **js-** and are not styled into the CSS files.
@@ -301,7 +299,6 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 
 > [Pixel Perfect - Chrome Extension](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
 
-* [ ] **Reading direction:** ![High][high_img] All pages need to be tested for LTR and RTL languages if they need to be supported.
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -331,12 +328,12 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 
 ### Best practices
 
-* [ ] **JavaScript Inline:** ![High][high_img] You don't have any JavaScript code inline (mixed with your HTML code).
+* [ ] **JavaScript Inline:** ![High][high_img] You don't have any JavaScript code inline (mixed with your HTML code). Javascript should be in an external file, and imported via a script tag before the closing body tag.
 
 
 ### JavaScript testing
 
-* [ ] **ESLint:** ![High][high_img] No errors are flagged by ESLint (based on your configuration or standards rules).
+* [ ] **ESLint:** ![High][high_img] If you have custom Javascript that you wrote: No errors are flagged by ESLint (based on your configuration or standards rules).
 
 > * 📖 [ESLint - The pluggable linting utility for JavaScript and JSX](https://eslint.org/)
 
@@ -379,7 +376,7 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 Sites will be evaluated using this [Google Chrome extension]( https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
 ### Best practices
 
-- [ ] **Color contrast:** ![Medium][medium_img] Color contrast should at least pass WCAG AA (AAA for mobile).
+- [ ] **Color contrast:** ![High][high_img] Color contrast should at least pass WCAG AA (AAA for mobile).
 
 > * 🛠 [Contrast ratio](https://leaverou.github.io/contrast-ratio/)
 
